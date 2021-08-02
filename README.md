@@ -5,6 +5,8 @@
 
 2. Quiz App
 
+- https://www.uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924
+- https://www.eggradients.com/
 - questions from obj
 - select answer
 - at the end show score
@@ -22,3 +24,7 @@
 - localStorage
 
 5. Drawing App
+
+- canvas
+- size
+- color
