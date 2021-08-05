@@ -20,12 +20,43 @@
 
 4. Notes App
 
+- https://www.uidesigndaily.com/posts/photoshop-notes-widget-day-65
 - CRUD note
 - markdown
 - localStorage
 
-5. Drawing App
+5. ToDo App
+
+- CRUD todos
+- localStorage
+
+6. Movie App
+
+- List of movie
+- Movie info
+- Fav movie
+- Actors
+
+7. Github Profiles App
+
+- Search for user
+- get and show data
+
+8. Drawing App
 
 - canvas
 - size
 - color
+
+9. Passwork Generator
+
+- numbers
+- letters
+- symbols
+- copy to clipboard
+
+10. Weather App
+
+- enter location
+- get weather
+- have some icons
